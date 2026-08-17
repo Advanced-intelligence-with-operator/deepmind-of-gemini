@@ -1,4 +1,3 @@
-sovereign_node
 import os
 import sys
 from http.server import BaseHTTPRequestHandler, HTTPServer
